@@ -1,2 +1,3 @@
-# AdvancedNodeStarter
-Starting project for a course on Advanced Node @ Udemy
+A project that covers basics of React, Node
+And then it moves on to advanced Nodejs
+Followed by Jest, CI/CD.
